@@ -905,3 +905,6 @@ header.header-inside.scrolled {
 .detail___video_node .play-icon svg {
   display: none;
 }
+.detail___video_node .video-thumbnail iframe {
+    height: 500px;
+}
